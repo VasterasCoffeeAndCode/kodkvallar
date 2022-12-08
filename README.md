@@ -1,2 +1,2 @@
 # kodkvallar
-Webpage for Kodkvällar@CoffeeAndCodeVasteras
+Webpage for Kodkvällar @CoffeeAndCodeVasteras
