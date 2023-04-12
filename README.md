@@ -1,5 +1,6 @@
-# Kodkvällar i Västerås
 @CoffeeAndCodeVasteras
+
+# Kodkvällar i Västerås
 
 Vi träffas onsdagar kl. 18:00 på Comfort hotell, Sigurdsgatan 23 i Västerås. Hotellet ligger bredvid järnvägsstationen.
 
