@@ -1,4 +1,4 @@
-@CoffeeAndCodeVasteras
+@VasterasCoffeeAndCode
 
 # Kodkvällar i Västerås
 
